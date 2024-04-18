@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Game Design/GAMEFINAL/GITHUB/SOULseekers/SoulSeekers/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+				"D:/Game Design/GAMEFINAL/GITHUB/SOULseekers/SoulSeekers/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"D:/Game Design/GAMEFINAL/GITHUB/SOULseekers/SoulSeekers/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/ZI/GNRAS2S97RY3GB0C3VRNTC.uasset",
+				"D:/Game Design/GAMEFINAL/GITHUB/SOULseekers/SoulSeekers/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/L8/MWOKCGVNDAH30MKEZJCAJ2.uasset"
 			]
 		}
 	]
