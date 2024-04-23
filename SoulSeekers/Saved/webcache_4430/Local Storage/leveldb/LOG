@@ -1,2 +1,5 @@
-2024/04/23-03:26:16.360 56d8 Creating DB D:/Mars Kloss/Game Design/GitHub/SOULseekers/SoulSeekers/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/04/23-03:26:16.376 56d8 Reusing MANIFEST D:/Mars Kloss/Game Design/GitHub/SOULseekers/SoulSeekers/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/04/23-03:50:50.476 bc4 Reusing MANIFEST D:/Mars Kloss/Game Design/GitHub/SOULseekers/SoulSeekers/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/04/23-03:50:50.477 bc4 Recovering log #3
+2024/04/23-03:50:50.478 bc4 Level-0 table #3: started
+2024/04/23-03:50:50.481 bc4 Level-0 table #3: 20551 bytes OK
+2024/04/23-03:50:50.484 bc4 Delete type=0 #3
