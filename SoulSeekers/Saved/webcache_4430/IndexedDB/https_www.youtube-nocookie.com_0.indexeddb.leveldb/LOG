@@ -1,0 +1,6 @@
+2024/04/23-03:29:44.285 5300 Creating DB D:/Mars Kloss/Game Design/GitHub/SOULseekers/SoulSeekers/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/04/23-03:29:44.296 5300 Reusing MANIFEST D:/Mars Kloss/Game Design/GitHub/SOULseekers/SoulSeekers/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/23-03:35:28.732 2710 Level-0 table #5: started
+2024/04/23-03:35:28.742 2710 Level-0 table #5: 1167 bytes OK
+2024/04/23-03:35:28.743 2710 Delete type=0 #3
+2024/04/23-03:35:28.744 2710 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
